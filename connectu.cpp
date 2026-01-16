@@ -1,4 +1,4 @@
-/*
+/* hi!
  * PROJECT: CONNECT-U (Starter Code)
  * Course: ECE367L Data Structures & Algorithms
  * 
